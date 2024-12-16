@@ -6,9 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://hussell.tech/wp-content/uploads/2023/04/Screenshot-163.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This section provides a detailed overview of each stage in the ticket lifecycle. Follow the steps carefully to ensure efficient ticket handling.
